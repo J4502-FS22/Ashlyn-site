@@ -1,0 +1,43 @@
+
+body {
+width:300px;
+  margin: 50px auto;
+  font-family: sans-serif;
+  background-color: lavender;
+}
+
+nav {
+background-color: white;
+
+}
+
+h1 {
+font-family: cursive;
+font-size:50px
+background-color: lavender;
+
+}
+
+h2{
+font-size:
+font-family:cursive;
+background-color: lavender;
+
+}
+
+h3{
+font-size:
+font-family: monospace;
+background-color: lavender;
+}
+
+a {
+  font-style:
+  font-weight:bold;
+  text-decoration
+}
+
+ul {
+list-style: none;
+
+}
